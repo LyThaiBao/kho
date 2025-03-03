@@ -1,0 +1,27 @@
+:root{
+    --body-color:#fff;
+    --background-color:#3e0076;
+    --text-color: rgb(140 180 222 );
+    --endpage-color:#dad0d1;
+    
+    
+
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Roboto", serif;
+    background-color: var(--body-color);
+}
+.grid{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    width: 100%;
+}
+.colum{
+    width: 100%;
+}

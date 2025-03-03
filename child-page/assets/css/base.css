@@ -1,0 +1,16 @@
+:root{
+    --body-color:rgb(237 242 250);
+    --text-color:#fff;
+    --background-color: #7C0FD3;
+    --user-color:rgb(199, 86, 25);
+    --part_2-color:#fff;
+    --icon-color:#fff;
+}
+.grid{
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+body{
+   
+}

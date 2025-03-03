@@ -1,0 +1,71 @@
+.part{
+    list-style: none;
+}
+.navbar{
+    position: re;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: var(--background-color);
+    z-index: 1;
+}
+
+.part{
+    display: flex;
+    
+    
+}
+.part_2,.part_3,.part_1{
+    font-size: 24px;
+}
+.part_1+.part_1{
+    margin-left: 20px;
+}
+.part_2+.part_2{
+    margin-left: 50px;
+}
+
+
+.logo{
+    width: 59px;
+    height: 57px;
+    padding-bottom: 10px;
+    position: relative;
+    top: -10px;
+    background-color: var(--background-color);
+}
+.items__navbar{
+    color: var( --icon-color);
+}
+.part_1{
+    margin-left: -30px;
+}
+.part_2,.part_1{
+    color: var(--background-color);
+}
+.title{
+    color: var(--background-color);
+    margin: 4px 471px;
+    font-family: "Oswald", serif;
+}
+.course{
+    background-color: #fff;
+    
+}
+.items__check{
+    display: flex;
+    justify-content: space-around;
+}
+.ảnh{
+    border-radius: 50%;
+}
+.items__check{
+    list-style: none;
+}
+.search{
+    font-size: ;
+}
+
+
